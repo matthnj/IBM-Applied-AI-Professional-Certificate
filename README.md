@@ -1,5 +1,5 @@
 # Professional Certificate - 7 course series
-[## Full Course](https://www.coursera.org/account/accomplishments/specialization/certificate/A58TTVG5RHDR)
+## [Full Course](https://www.coursera.org/account/accomplishments/specialization/certificate/A58TTVG5RHDR)
 
 ## Course 1
 [Introduction to Artificial Intelligence (AI).
